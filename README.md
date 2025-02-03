@@ -5,10 +5,10 @@ Welcome to the **Codecrafters Labs Web Development Mentoring Program**! This rep
 ## How It Works
 As the initial step to enter this mentoring program, you are required to solve the following four Codewars challenges:
 
-1. **[Challenge Placeholder 1]**
-2. **[Challenge Placeholder 2]**
-3. **[Challenge Placeholder 3]**
-4. **[Challenge Placeholder 4]**
+1. **[[Training JS #1 Create your first function](https://www.codewars.com/kata/571ec274b1c8d4a61c0000c8)]**
+2. **[[Training #6 basic data-types and conditional statements](https://www.codewars.com/kata/571f832f07363d295d001ba8/javascript)]**
+3. **[[Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)]**
+4. **[[Simple Calculator](https://www.codewars.com/kata/57158fb92ad763bb180004e7/javascript)]**
 
 These challenges are carefully selected to assess your logical thinking, algorithmic skills, and problem-solving approach. Completing them will demonstrate your readiness to join this batch of mentees.
 
