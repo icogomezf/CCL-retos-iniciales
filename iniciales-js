@@ -1,0 +1,35 @@
+//Training JS #1: create your first JS function and print "Hello World!"
+function helloWorld() {
+  var str = 'Hello World!';
+  console.log(str);
+}
+
+//Training JS #6: Basic data types--Boolean and conditional statements if..else
+function trueOrFalse(val){
+    if(val==false || val==0||val==-0|| val==""||val==null||val==undefined||val== NaN) return "false";
+    else return "true";
+}
+
+//Even or Odd
+function evenOrOdd(number) {
+  if (number%2 == 0)
+  {    
+     return "Even";
+  } else {
+     return "Odd";
+  }
+}    
+
+//Fix your code before the garden dies!
+function rainAmount(mm){
+   var levelWater 
+  
+    if (mm < 40) {
+         levelWater = 40 - mm;
+         return "You need to give your plant " + levelWater + "mm of water";
+    }
+    else{
+         return "Your plant has had more than enough water for today!";
+    }
+}
+
